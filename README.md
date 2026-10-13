@@ -6,6 +6,7 @@ Mi interessano **corporate finance, banking e controllo di gestione**, e l'uso d
 ### 📊 Progetto in evidenza
 
 **[L'uso dell'intelligenza artificiale per lo studio della povertà: analisi del risparmio](https://github.com/fdiprima/tesi-poverta-istat)**
+
 Tesi di laurea magistrale in Statistica multivariata e data mining (a.a. 2025-2026).
 
 - Microdati Istat sull'Indagine sulle spese delle famiglie 2024: **28.054 famiglie, 1.627 variabili**
